@@ -1,0 +1,25 @@
+header ul { margin: 0px; padding: 10px 0 0 0; text-align: center; max-height: 0; overflow: hidden;}
+header .logo { margin: 0 auto; padding-top: 10px; height: auto; max-width: 100%;}
+header ul a { color: #000; text-decoration: none; padding: 5px 10px; display: block;}
+header ul a:hover { background-color: #FF0000; color: #FFF; text-decoration: none; border: none; padding: 5px 0px;}
+header ul li { display: block; font-size: 1.5em; padding: 0; color: #000; background-color:#FFCC00; width: 100%; box-sizing: border-box;}
+header .handle { display: block; }
+.showing { max-height: 20em; }
+
+.add { width: 100%; }
+.add input[type=text] { width: 90%; margin: 10px auto; }
+.add select { width: 45%; padding: 5px; margin: 7px 5px 0 0;}
+.add input[type=submit] { font-size: 1em; padding: 3px 7px; cursor: pointer; width: 45%; margin: 7px 5px 0 0;}
+.add ul { margin-top: 10px; }
+.add ul li { width: 15px; padding: 5px 5px 2px 5px; margin: 5px 5px;}
+
+
+
+.innertube { width: 100%; }
+.container .top { min-height: 75px; font-size: 1.7em; }
+.container .bottom { min-height: 75px; font-size: 1.7em; }
+
+.word { height: 100px; max-width: 700px; line-height: 100px; text-align: left;}
+
+.controls button { padding: 3px 3px; width: 140px;}
+
